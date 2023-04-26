@@ -1,0 +1,31 @@
+https://github.com/D7uffy/react-gifexpert-app
+_________________________________________________
+
+
+
+// Cuando existe un proxy:
+__________________________
+git config --global http.proxy http://pedro:*soloxhoy2022@192.168.1.8:3128
+____________________________________________________________________________
+
+// Y ahora lo normal que es://
+_______________________________
+
+git remote add origin https://github.com/D7uffy/react-gifexpert-app.git
+git branch -M main   
+git push -u origin main
+__________________________________________________________________________
+
+Ahora como un plus,  Al ejecutar:
+___________________
+git config --global --list
+_________________________
+
+Resuelve:
+___________
+user.name=peter
+user.email=pprancel@gmail.com
+http.proxy=http://pedro:*soloxhoy2022@192.168.1.8:3128
+credential.http://192.168.1.8:3128.provider=generic
+PS D:\Programing\REACT JS\ReactCurseApril\05-GIF-Expert-CreateApp> 
+
